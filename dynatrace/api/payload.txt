@@ -1,0 +1,6 @@
+test.vucount,testname="my test",dt.entity.service=SERVICE-B021B9B139D8D7BB 10
+test.errorrate,testname="my test",dt.entity.service=SERVICE-B021B9B139D8D7BB 0
+test.transaction.responsetime,testname="my test",transaction="homepage",dt.entity.service=SERVICE-B021B9B139D8D7BB gauge,min=100,max=500,sum=2200,count=10
+test.transaction.errorrate,testname="my test",transaction="homepage",dt.entity.service=SERVICE-B021B9B139D8D7BB gauge,min=0,max=2,sum=5,count=10
+test.transaction.responsetime,testname="my test",transaction="checkout",dt.entity.service=SERVICE-B021B9B139D8D7BB gauge,min=200,max=1100,sum=4200,count=10
+test.transaction.errorrate,testname="my test",transaction="checkout",dt.entity.service=SERVICE-B021B9B139D8D7BB gauge,min=0,max=4,sum=8.0,count=10
